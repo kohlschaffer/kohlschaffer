@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kohlschaffer ... I go by Jonathan on UpWork because that is my first name.
+- 👀 I’m interested in website development and coding. I currently use Squarespace, Wordpress, Javascript, HTML, and CSS.
+- 💞️ I’m looking to collaborate on projects from UpWork which include website development.
+- 📫 How to reach me: kohlschaffer12@gmail.com
